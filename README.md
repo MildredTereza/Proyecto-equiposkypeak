@@ -2,7 +2,7 @@
 Cliente/Servidor
  
 Nombre de Equipo: SKYPEAK
-MILDRED ANDREA TEREZA BARCENAS
-JORGE ANDREY ABAD SALINAS
-ARI JETZAL ZAMACONA PEREZ
+Mildred Andrea Tereza Barcenas
+Jorge Andrey Abad Salinas
+Ari Jetzal Zamacona Perez
 Miriam Kassandra Torres Camacho
